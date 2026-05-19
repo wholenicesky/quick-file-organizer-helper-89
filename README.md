@@ -1,2 +1,9 @@
-# quick-file-organizer-helper-89
-A simple file organizer project
+# File Organizer
+
+A simple file organizer project.
+\n
+## Getting Started
+
+```bash
+python file.py
+```
